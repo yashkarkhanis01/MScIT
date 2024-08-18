@@ -1,0 +1,31 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+	
+	<category>
+		<pattern>HELLO </pattern>
+		<template>
+			Well, hello human
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT ARE YOU</pattern>
+		<template>
+			I'm a chatbot
+		</template>
+	</category>
+
+	<category>
+		<pattern> WHAT DO YOU DO </pattern>
+		<template>
+			I'm the chatbot magician – turning your questions into laughter spells!
+		</template>
+	</category>
+
+	<category>
+		<pattern> WHO I AM </pattern>
+		<template>
+			You are Yash Karkhanis, and you have developed me :)
+		</template>
+	</category>
+</aiml>
